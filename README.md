@@ -61,7 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is the vice president of engineering at Julia Computing, a contributor to open source Julia, and the maintainer of several Julia packages. Avik is the co-founder of two start-ups in the financial services and AI sectors, and is a creator of large, complex trading systems for the world's leading investment banks. Prior to Julia Computing, Avik was co-founder and CTO at AlgoCircle and at Itellix, director at Lab49, and head of algorithmic solutions at Decimal Point Analytics. Avik earned his MS in computational finance at Carnegie Mellon and MBA Finance at the Indian Institute of Management in Bangalore.
 
 ## Other books by the authors
-Julia High Performance [Packt](https://www.packtpub.com/application-development/julia-high-performance)
+Julia High Performance [[Packt]](https://www.packtpub.com/application-development/julia-high-performance)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
